@@ -14,8 +14,8 @@ role: Deep Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Wayve
-  url: "https://wayve.ai/"
+- name: Robotics Research Center, IIITH
+  url: "https://robotics.iiit.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Meta-Learning, Bayesian and Continual Deep Learning, Robotics.
@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-  - course: Research Master's in Machine Learning
-    institution: Montreal Institute of Learning Algorithms
-    year: 2020
-  - course: B.Tech in Maths and Computing (Applied Mathematics)
-    institution: Delhi Technological University (DTU/DCE)
-    year: 2016
+  - course: MS by Research in CSE with specialization in Robotics
+    institution: International Institute of Information Technology, Hyderabad
+    year: 2021
+  - course: B.Tech in Mechanical
+    institution: Indian Institute of Technology Jodhpur
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
