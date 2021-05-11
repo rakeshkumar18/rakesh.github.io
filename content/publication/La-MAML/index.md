@@ -1,9 +1,14 @@
 ---
-title: "La-MAML: Look-Ahead Meta-Learning for Continual Learning"
+title: "RoRD: Rotation-Robust Descriptors and Orthographic Views for Local Feature Matching
+"
 authors:
 - admin
-- Karmesh Yadav
-- Liam Paull
+- Aniket Gujarathi
+- Kinal Mehta
+- Satyajit Tourani
+- Sourav Garg
+- Michael Milford
+- K. Madhava Krishna
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -20,12 +25,12 @@ publishDate: "2020-10-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neural Information Processing Systems 2020 (Oral)*
-publication_short: In *Neurips*
+publication: Under Review at IROS
+publication_short: Under Review
 
-abstract: The continual learning problem involves training models with limited capacity to perform well on a set of an unknown number of sequentially arriving tasks. While meta-learning shows great potential for reducing interference between old and new tasks, the current training procedures tend to be either slow or offline, and sensitive to many hyper-parameters. In this work, we propose Look-ahead MAML (La-MAML), a fast optimisation-based meta-learning algorithm for online-continual learning, aided by a small episodic memory. Our proposed modulation of per-parameter learning rates in our meta-learning update allows us to draw connections to prior work on hypergradients and meta-descent. This provides a more flexible and efficient way to mitigate catastrophic forgetting compared to conventional prior-based methods.La-MAML achieves performance superior to other replay-based, prior-based and meta-learning based approaches for continual learning on real-world visual classification benchmarks.
+abstract: The use of local detectors and descriptors in typical computer vision pipelines work well until variations in viewpoint and appearance change become extreme. Past research in this area has typically focused on one of two approaches to this challenge: the use of projections into spaces more suitable for feature matching under extreme viewpoint changes, and attempting to learn features that are inherently more robust to viewpoint change. In this paper, we present a novel framework that combines learning of invariant descriptors through data augmentation and orthographic viewpoint projection. We propose rotation-robust local descriptors, learnt through training data augmentation based on rotation homographies, and a correspondence ensemble technique that combines vanilla feature correspondences with those obtained through rotation-robust features. Using a range of benchmark datasets as well as contributing a new bespoke dataset for this research domain, we evaluate the effectiveness of the proposed approach on key tasks including pose estimation and visual place recognition. Our system outperforms a range of baseline and state-of-the-art techniques, including enabling higher levels of place recognition precision across opposing place viewpoints and achieves practically-useful performance levels even under extreme viewpoint changes.
 # Summary. An optional shortened abstract.
-summary: In this work we develop a gradient-based meta-learning algorithm for efficient, online continual learning, that is robust and scalable to real-world visual benchmarks.
+summary: We achieve high viewpoint invariance local feature matching using rotation homographies during training and converting perspective image to orthographic for feature matching.
 
 tags:
 - Meta Learning
@@ -36,19 +41,19 @@ featured: true
 links:
 - name: Oral
   url: 
-url_pdf: https://arxiv.org/abs/2007.13904.pdf
-url_code: 'https://github.com/montrealrobotics/La-MAML'
+url_pdf: https://arxiv.org/pdf/2103.08573.pdf
+url_code: 'https://github.com/UditSinghParihar/RoRD'
 #url_dataset: '#'
 #url_poster: '#'
-url_project: 'https://mila.quebec/en/blog/'
+url_project: 'https://uditsinghparihar.github.io/RoRD/'
 #url_slides: ''
 #url_source: '#'
-url_video: 'https://www.youtube.com/watch?v=HzewyVu8LaY'
+url_video: 'https://www.youtube.com/watch?v=4n6_6TMnlOc'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'A pictoral depiction of the La-MAML algorithm'
+  caption: **Local feature matches using RoRD**. Our method RoRD finds precise local feature correspondences under extreme viewpoint (180 degrees) changes for both indoor and outdoor sequences.  
   focal_point: ""
   preview_only: false
 
