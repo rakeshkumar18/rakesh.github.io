@@ -93,7 +93,7 @@ email = "uditsinghparihar96@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Queen Mary Road", city = "Montreal", region = "QC", postcode = "H3W1W3", country = "Canada", country_code = "CA"}
+address = {street = "Queen Mary Road", city = "Hyderabad", region = "Gachibowli", postcode = "H3W1W3", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

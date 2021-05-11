@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include Meta-Learning, Bayesian and Continual Deep Learning, Robotics.
 
 interests:
-- Bayesian Deep Learning
-- Continual and Online Learning
-- Learning from Demonstrations
+- SLAM / State Estimation
+- Differentiable Computer Vision
+- Optimization
 - Robotics
 
 education:
