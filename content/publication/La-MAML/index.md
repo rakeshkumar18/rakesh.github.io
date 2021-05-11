@@ -53,7 +53,7 @@ url_video: 'https://www.youtube.com/watch?v=4n6_6TMnlOc'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: **Local feature matches using RoRD**. Our method RoRD finds precise local feature correspondences under extreme viewpoint (180 degrees) changes for both indoor and outdoor sequences.  
+  caption: 'Local feature matches using RoRD. Our method RoRD finds precise local feature correspondences under extreme viewpoint (180 degrees) changes for both indoor and outdoor sequences.'  
   focal_point: ""
   preview_only: false
 
