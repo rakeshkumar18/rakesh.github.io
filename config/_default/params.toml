@@ -110,7 +110,10 @@ address = {street = "IIITH", city = "Hyderabad", region = "Gachibowli", postcode
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = []
+contact_links = [
+  {icon = "email", icon_pack = "fab", name = "Mail Me", link = "uditsinghparihar96@gmail.com"}, 
+  {icon = "linkedin", icon_pack = "fab", name = "Message Me", link = "https://www.linkedin.com/in/udit-singh-parihar-0bab24b7/"}
+  ]
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},

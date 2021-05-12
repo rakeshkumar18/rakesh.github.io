@@ -46,7 +46,7 @@ url_code: 'https://github.com/Shubodh/ICRA2020'
 #url_project: 'https://krrish94.github.io/CTCNet-release/'
 #url_slides: ''
 #url_source: '#'
-#url_video: 'https://www.youtube.com/watch?v=swYcwrjprh0'
+url_video: 'https://www.youtube.com/watch?v=swYcwrjprh0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
