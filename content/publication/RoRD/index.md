@@ -12,6 +12,8 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: "2020-10-01T00:00:00Z"
 doi: ""
 
@@ -40,8 +42,8 @@ tags:
 featured: true
 
 links:
-- name: Oral
-  url: 
+<!-- - name: Oral
+  url:  -->
 url_pdf: https://arxiv.org/pdf/2103.08573.pdf
 url_code: 'https://github.com/UditSinghParihar/RoRD'
 #url_dataset: '#'

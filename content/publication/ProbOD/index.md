@@ -1,11 +1,12 @@
 ---
 title: "Probabilistic Object Detection: Strenghts, Weaknesses, and Opportunities"
 authors:
-- Dhaivat Bhatt
-- Dishank Bansal
+- Sai Shubodh Puligilla
+- Satyajit Tourani
+- Tushar Vaidya
 - admin
-- Krishna Murthy
-- Liam Paull
+- Ravi Kiran Sarvadevabhatla
+- K. Madhava Krishna
 
 author_notes:
 - "Equal contribution"

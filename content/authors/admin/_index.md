@@ -77,6 +77,4 @@ user_groups:
 Hey! I am currently working as a Research Assistant under Prof. Madhava Krishna in Robotics Research Center. My current research statement includes making robust Simultaneous Localization and Mapping (SLAM) algorithms in a featureless environment and improving correspondence matching in high illumination and viewpoint changes. We tackle these problems by incorporating classical computer vision in deep learning pipelines.
 
 
-<!-- I was introduced to robotics during a year-long research internship at IIIT, (Hyderabad, India 2017-2018), where I worked on Multi-Robot SLAM and view-invariant recognition for place recognition and relocalisation. -->
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
