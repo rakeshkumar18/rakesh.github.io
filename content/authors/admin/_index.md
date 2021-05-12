@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:uditsinghparihar96@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.in/citations?user=fUeIp1EAAAAJ&hl=en
