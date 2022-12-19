@@ -7,15 +7,15 @@ tags:
 # date: "2019-05-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/UditSinghParihar/g2o_tutorial"
+external_link: ""
 
 image:
   caption: Comparison of Robot poses before and after optimization
   focal_point: Smart
 
-url_code: ""
+url_code: "https://github.com/UditSinghParihar/g2o_tutorial"
 url_pdf: ""
-url_slides: ""
+url_slides: "https://www.notion.so/G2O-General-Graph-Optimization-Framework-151b8c5f93bb4519be9fd5c2f9bfa112"
 url_video: ""
 
 # Slides (optional).
