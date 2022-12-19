@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "OLA Electric"
   company_url = "https://olaelectric.com/"
   location = "Bangalore"
-  date_start = "Jun 2021"
-  date_end = ""
+  date_start = "2021-07-01"
+  date_end = "2023-01-01"
   description = """
   * Developed an end to end autonomous driving agent using cameras, GPS and IMU sensors. Ported the agent from Carla simulator to NuScenes Dataset. Converted the pytorch model to TensorRT and developed a ROS wrapper to run on real Mahindra E2O car achieving final control prediction at 25 HZ, in a zero shot paradigm.
   * Extended the Lidar based mapping and localization LeGO-LOAM SLAM for the Velodyne and Ouster lidars and ported ROS1 to ROS2 in C++. 
@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   company = "Robotics Research Center, IIITH"
   company_url = "https://robotics.iiit.ac.in/"
   location = "Hyderabad"
-  date_start = "Aug 2018"
-  date_end = "Jun 2021"
+  date_start = "2018-08-01"
+  date_end = "2021-07-01"
   description = """
   * Worked on the intersection of SLAM, Computer Vision, Deep Learning, and Robotics. Developed robust pose graph constraints using scene semantics and developed rotation invariant deep feature descriptors for feature matching.
   * Published in ICRA and IROS conferences.
