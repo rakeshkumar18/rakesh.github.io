@@ -36,11 +36,11 @@ date_format = "Jan 2006"
   company = "Robotics Research Center, IIITH"
   company_url = "https://robotics.iiit.ac.in/"
   location = "Hyderabad"
-  date_start = "August 2018"
-  date_end = "June 2021"
+  date_start = "Aug 2018"
+  date_end = "Jun 2021"
   description = """
   * Worked on the intersection of SLAM, Computer Vision, Deep Learning, and Robotics. Developed robust pose graph constraints using scene semantics and developed rotation invariant deep feature descriptors for feature matching.
   * Published in ICRA and IROS conferences.
   """
-  
+
 +++
