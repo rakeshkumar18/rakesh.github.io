@@ -22,13 +22,13 @@ date_format = "Jan 2006"
   company = "OLA Electric"
   company_url = "https://olaelectric.com/"
   location = "Bangalore"
-  date_start = "Jul 2021"
-  date_end = "Present"
+  date_start = "Jun 2021"
+  date_end = ""
   description = """
   * Developed an end to end autonomous driving agent using cameras, GPS and IMU sensors. Ported the agent from Carla simulator to NuScenes Dataset. Converted the pytorch model to TensorRT and developed a ROS wrapper to run on real Mahindra E2O car achieving final control prediction at 25 HZ, in a zero shot paradigm.
   * Extended the Lidar based mapping and localization LeGO-LOAM SLAM for the Velodyne and Ouster lidars and ported ROS1 to ROS2 in C++. 
   * Won the silver medal in the Kaggle Image Matching Challenge 2022 by developing an Ensemble of Deep feature matching algorithm of SuperGlue and LoFTR.
-  * Trained Self Supervised Depth estimation PackNet-SfM on indian driving dataset and on Carla simulator dataset
+  * Trained Self Supervised Depth estimation PackNet-SfM on Indian driving dataset and on Carla simulator dataset.
   """
 
 <!-- #[[experience]] -->
