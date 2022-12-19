@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-<!-- Hey! I am currently working as a Research Assistant under Prof. Madhava Krishna in Robotics Research Center. My current research statement includes making robust Simultaneous Localization and Mapping (SLAM) algorithms in a featureless environment and improving correspondence matching in high illumination and viewpoint changes. We tackle these problems by incorporating classical computer vision in deep learning pipelines. -->
+# Hey! I am currently working as a Research Assistant under Prof. Madhava Krishna in Robotics Research Center. My current research statement includes making robust Simultaneous Localization and Mapping (SLAM) algorithms in a featureless environment and improving correspondence matching in high illumination and viewpoint changes. We tackle these problems by incorporating classical computer vision in deep learning pipelines.
 
 Hey! I have done my master's from IIITH from Robotics Research Centre where I have been working on the intersection of SLAM, 3D computer vision, and deep learning.
 Our work on robust pose graph SLAM has been published at the ICRA conference and our work on Robust feature matching has been presented at the IROS conference. These works targets improving SLAM performance in feature-less regions and improving correspondence matching in high illumination and viewpoint variations.

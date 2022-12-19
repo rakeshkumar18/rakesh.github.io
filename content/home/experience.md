@@ -31,15 +31,6 @@ date_format = "Jan 2006"
   * Trained Self Supervised Depth estimation PackNet-SfM on Indian driving dataset and on Carla simulator dataset.
   """
 
-<!-- #[[experience]] -->
-#  title = "Master's Student in Machine Learning"
-#  company = "Montreal Institute of Learning Algorithms"
-#  company_url = "https://mila.quebec/en/"
-#  location = "Montreal"
-#  date_start = "2018-09-05"
-#  date_end = "2020-09-01"
-#  description = """Worked on Continual Learning and Autonomous Driving research problems"""
-
 [[experience]]
   title = "Graduate Research Assistant"
   company = "Robotics Research Center, IIITH"
@@ -51,43 +42,5 @@ date_format = "Jan 2006"
   * Worked on the intersection of SLAM, Computer Vision, Deep Learning, and Robotics. Developed robust pose graph constraints using scene semantics and developed rotation invariant deep feature descriptors for feature matching.
   * Published in ICRA and IROS conferences.
   """
-
-<!-- [[experience]]
-  title = "Software Developer"
-  company = "Microsoft"
-  company_url = "https://www.microsoft.com/en-in/"
-  location = "Hyderabad"
-  date_start = "2016-06-01"
-  date_end = "2017-02-01"
-  description = """
-  * Built prediction and summarisation modules for employee performance feedback using deep learning and NLP
-  * Organised workshops on 'Machine Learning Fundamentals' for Microsoft employees.""" -->
-
-<!-- [[experience]]
-  title = "Computer Vision Intern"
-  company = "Nayi Disha Studios"
-  company_url = "http://nayidishastudios.com/"
-  location = "Hyderabad"
-  date_start = "2016-01-10"
-  date_end = "2016-03-01"
-  description = "Developed a camera-based tracking system for gestures and actions to replace Lidar for interactive gameplay-based primary-school education platform."
-
-[[experience]]
-  title = "Software Developer Intern"
-  company = "Microsoft"
-  company_url = "https://www.microsoft.com/en-in/"
-  location = "Hyderabad"
-  date_start = "2014-06-01"
-  date_end = "2014-08-01"
-  description = ""
-
-[[experience]]
-  title = "Computer Graphics Intern"
-  company = "Freshmonk"
-  company_url = "https://www.f6s.com/freshmonk1"
-  location = "Hyderabad"
-  date_start = "2013-10-01"
-  date_end = "2013-12-01"
-  description = "Automated the process that takes in a client uploaded image to be printed on tshirts, and provides the different color stencils for screen-printing" -->
-
+  
 +++
