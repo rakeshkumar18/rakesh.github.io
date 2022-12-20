@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Udit Singh Parihar
+title: Rakesh Kumar
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Deep Learning and SLAM Researcher
+role: Research Engineer Control System and Deep Learning
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,22 @@ organizations:
   url: "https://olaelectric.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include intersection of 3D Computer Vision, Deep Learning and SLAM.
+bio: My research interests include optimal control sysyem and physics informed neural network
 
 interests:
-- SLAM / State Estimation
-- Differentiable Computer Vision
+- Optimal Control
+- Physics informed neural network
 - Optimization
 - Robotics
 
 education:
   courses:
-  - course: MS by Research in CSE with specialization in Robotics
-    institution: International Institute of Information Technology, Hyderabad
+  - course: M.Tech Course work in Mechanical Engineering 
+    institution: Indian Institute of science, bangalore
     year: 2021
   - course: B.Tech in Mechanical
-    institution: Indian Institute of Technology Jodhpur
-    year: 2018
+    institution: Indian Institute of Technology (ISM), Dhanbad
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:uditsinghparihar96@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.in/citations?user=fUeIp1EAAAAJ&hl=en
+  link: mailto:rakeshkr.ism@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: https://scholar.google.co.in/citations?user=fUeIp1EAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/UditSinghParihar
+  link: https://github.com/rakeshkumar18
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/udit-singh-parihar-0bab24b7/
+  link: https://www.linkedin.com/in/rakeshkrism/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/udit_parihar
+  link: https://twitter.com/Rrakesh93
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -62,7 +62,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "uditsinghparihar96@gmail.com"
+email: "rakeshkr.ism@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
