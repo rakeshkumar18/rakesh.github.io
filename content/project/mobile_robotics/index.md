@@ -1,6 +1,6 @@
 ---
 title: Robotics Toolbox 
-summary: Implementation of common robotics algorithms like Bundle Adjustment, Visual Odometry, Stereo Reconstruction and EKF
+summary: Implementation of common robotics algorithms like Bundle Adjustment, Visual Odometry, Stereo Reconstruction and EKF from scratch
 tags:
 - SLAM
 - Robotics
@@ -14,7 +14,7 @@ image:
   caption: Comparison of Robot poses before and after optimization
   focal_point: Smart
 
-url_code: ""
+url_code: "https://github.com/UditSinghParihar/Mobile_Robotics_Assignments"
 url_pdf: ""
 url_slides: ""
 url_video: ""
