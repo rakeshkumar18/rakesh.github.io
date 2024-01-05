@@ -87,12 +87,12 @@ show_related = {docs = true, page = false, post = false, project = true, publica
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "uditsinghparihar96@gmail.com"
+email = "rakeshkr.ism@gmail.com"
 #phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "IIITH", city = "Hyderabad", region = "Gachibowli", postcode = "500032", country = "India", country_code = "IN"}
+address = {street = "IISc", city = "Bangalore", region = "Bengaluru", postcode = "560012", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -111,8 +111,8 @@ address = {street = "IIITH", city = "Hyderabad", region = "Gachibowli", postcode
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fab", name = "Email Me", link = "mailto:uditsinghparihar96@gmail.com"}, 
-  {icon = "linkedin", icon_pack = "fab", name = "Message Me", link = "https://www.linkedin.com/in/udit-singh-parihar-0bab24b7/"}
+  {icon = "envelope", icon_pack = "fab", name = "Email Me", link = "mailto:rakeshkr.ism@gmail.com@gmail.com"}, 
+  {icon = "linkedin", icon_pack = "fab", name = "Message Me", link = "https://www.linkedin.com/in/rakeshkrism/"}
   ]
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
